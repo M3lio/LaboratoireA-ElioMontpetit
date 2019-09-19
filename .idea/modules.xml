@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab_A.iml" filepath="$PROJECT_DIR$/Lab_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/St1_geometrie/St1_geometrie.iml" filepath="$PROJECT_DIR$/St1_geometrie/St1_geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/St2_Boite_noire/St2_Boite_noire.iml" filepath="$PROJECT_DIR$/St2_Boite_noire/St2_Boite_noire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/St2_typage/St2_typage.iml" filepath="$PROJECT_DIR$/St2_typage/St2_typage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" filepath="$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_convertisseur_1/ex2_convertisseur_1.iml" filepath="$PROJECT_DIR$/ex2_convertisseur_1/ex2_convertisseur_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3_convertisseur_2/ex3_convertisseur_2.iml" filepath="$PROJECT_DIR$/ex3_convertisseur_2/ex3_convertisseur_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4_pythagore/ex4_pythagore.iml" filepath="$PROJECT_DIR$/ex4_pythagore/ex4_pythagore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex5_vecteur/ex5_vecteur.iml" filepath="$PROJECT_DIR$/ex5_vecteur/ex5_vecteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp1_expérience_verte/exp1_expérience_verte.iml" filepath="$PROJECT_DIR$/exp1_expérience_verte/exp1_expérience_verte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp2_Résolution/exp2_Résolution.iml" filepath="$PROJECT_DIR$/exp2_Résolution/exp2_Résolution.iml" />
+    </modules>
+  </component>
+</project>
